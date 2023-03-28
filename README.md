@@ -7,5 +7,5 @@ let's do it buddy.
 
 have a great day ahead!!!!
 
-* THEME: theme-minima
+* theme: minima .
 * 
