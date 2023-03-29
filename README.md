@@ -1,4 +1,4 @@
-# cousera-test
+# coursera-test
 
 hello friends 
 let's start learning web developing with  coursera ..
